@@ -1,6 +1,6 @@
 # SASS CDN Boilerplate
 
-![logo](https://repository-images.githubusercontent.com/217154004/4ab7f100-2e33-11ea-8e94-a8ffdf7cd506)
+![logo](https://repository-images.githubusercontent.com/254053979/cb870b80-7993-11ea-8350-b5c3b4e9bbce);
 
 - SASS
 
