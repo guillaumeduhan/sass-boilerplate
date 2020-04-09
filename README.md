@@ -11,6 +11,11 @@ Clone project and enter in folder:
 ```
 cd sass-cdn-boilerplate
 ```
+```
+npm run build
+```
+
+Minified file will be in /dist/ folder.
 
 ## Built With
 
