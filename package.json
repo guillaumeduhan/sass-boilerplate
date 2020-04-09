@@ -4,6 +4,7 @@
   "description": "A Scss/Sass CDN Boilerplate to build your own CDN.",
   "main": "index.js",
   "scripts": {
+    "build": "sass css/main.scss:dist/sass-cdn.min.css --style compressed",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
