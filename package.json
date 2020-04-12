@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "sass css/main.scss:dist/sass-cdn.min.css --style compressed",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "nodemon -e scss -x \"npm run build\""
   },
   "keywords": [
     "SASS",
@@ -16,6 +17,7 @@
   "author": "Guillaume Duhan",
   "license": "MIT",
   "dependencies": {
+    "nodemon": "^2.0.3",
     "sass": "^1.26.3"
   }
 }
